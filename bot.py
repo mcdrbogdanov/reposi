@@ -1,8 +1,8 @@
-from vkbottle import Bot, Message 
+from vkbottle.bot import Bot, Message 
 
 from vkbottle import Keyboard, KeyboardButtonColor, Text
 
-bp = Bot('vk1.a.zpd_3zF1mV2ppzCW_JhLcTVKadIY8h9Ksi-AfsbP3XCxkGvZqF3c6nfL_bRW9Tzdprqd22d9vlwah73X1Dp9N3Y7KpwFWSCAAmhKb6LjeQLHHSWXHhjpi0WEnV0nN5s4FwnNYjlieM-pTQ4vxdCacpUVb3_Y2cSSTekjlM234f9jDnHDuXPT1Xv85pHiiXVv9c2e25qfbwQBMe6B3BCVMA') 
+bp = Bot("vk1.a.zpd_3zF1mV2ppzCW_JhLcTVKadIY8h9Ksi-AfsbP3XCxkGvZqF3c6nfL_bRW9Tzdprqd22d9vlwah73X1Dp9N3Y7KpwFWSCAAmhKb6LjeQLHHSWXHhjpi0WEnV0nN5s4FwnNYjlieM-pTQ4vxdCacpUVb3_Y2cSSTekjlM234f9jDnHDuXPT1Xv85pHiiXVv9c2e25qfbwQBMe6B3BCVMA") 
 
 @bp.on.private_message()
 
