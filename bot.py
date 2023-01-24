@@ -12,4 +12,4 @@ async def hello(m: Message):
 
    await m.reply(m.text, keyboard=kb)
 
-bot.run_forever()
+bp.run_forever()
