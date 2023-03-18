@@ -4,7 +4,7 @@ from vkbottle.api.keyboard import Keyboard, Text
 
 from vkbottle.branch import Branch, ExitBranch
 
-bot=Bot('vk1.a.zpd_3zF1mV2ppzCW_JhLcTVKadIY8h9Ksi-AfsbP3XCxkGvZqF3c6nfL_bRW9Tzdprqd22d9vlwah73X1Dp9N3Y7KpwFWSCAAmhKb6LjeQLHHSWXHhjpi0WEnV0nN5s4FwnNYjlieM-pTQ4vxdCacpUVb3_Y2cSSTekjlM234f9jDnHDuXPT1Xv85pHiiXVv9c2e25qfbwQBMe6B3BCVMA')
+bot=Bot('vk1.a.t55ZsexRlJ1xCls8tvxrFTFQiQbY8PL-xWqvHSn-C1mYRfrpK0QkHWnR_sBQ-3yuJ3ff9vSqYZSY2AMzZjIACQp1JMFu4eJVs1p7Zh4_lrZRjtEMO5M1n6tzPyr2NKzIPzVdlH5k_cKQ67jAYC5-JYBrtaXwEFQThGPn7x8YloMgiqTkl5bK1fSaMUi9sDUo4OCRpZDPgQ2WsbIa6SdLJA')
 
 dialogs = {}
 
